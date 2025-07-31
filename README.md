@@ -1,6 +1,6 @@
 ## ¡Hola!👋
 
-Soy diseñador y desarrollador web. Creé CSS-Tricks, un sitio dedicado a enseñar sobre desarrollo web, activo desde hace más de 10 años.
+Soy cientifico y analista de datos. Creé CSS-Tricks, un sitio dedicado a enseñar sobre desarrollo web, activo desde hace más de 10 años.
 
 También soy cofundador de CodePen, una plataforma social para desarrolladores y diseñadores front-end donde pueden compartir y experimentar con código.
 
